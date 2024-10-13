@@ -1,0 +1,14 @@
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\bin\Debug\net8.0\Laba1_Aleksandrova_IT-14K.exe
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\bin\Debug\net8.0\Laba1_Aleksandrova_IT-14K.deps.json
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\bin\Debug\net8.0\Laba1_Aleksandrova_IT-14K.runtimeconfig.json
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\bin\Debug\net8.0\Laba1_Aleksandrova_IT-14K.dll
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\bin\Debug\net8.0\Laba1_Aleksandrova_IT-14K.pdb
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.AssemblyInfoInputs.cache
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.AssemblyInfo.cs
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.csproj.CoreCompileInputs.cache
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.dll
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\refint\Laba1_Aleksandrova_IT-14K.dll
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.pdb
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\Laba1_Aleksandrova_IT-14K.genruntimeconfig.cache
+c:\Projects\C#\Laba1_Aleksandrova_IT-14K\obj\Debug\net8.0\ref\Laba1_Aleksandrova_IT-14K.dll
